@@ -1,12 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Content Engine
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
+> An intelligent content generation platform that automatically plans, generates, and manages high-quality, monetizable content for blogs and social media.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1dGjlhO_lQ_3YeutVUU4ktvLkqxeGLz25
+
+### Content Generator
+Uses Gemini AI with carefully crafted prompts to generate human-like, AdSense-safe content of 600+ words.
+
+
+## Disclaimer
+
+This tool is designed to assist with content creation. Always review and edit generated content before publishing. Ensure compliance with platform policies and local regulations.
 
 ## Run Locally
 
